@@ -1,5 +1,11 @@
 # Phase 3 Project Guidelines
 
+## Phase 3 repo
+
+- [**Phase3 frontend repo**][frontend link]
+
+[frontend link]: https://github.com/Abzazuet/Phase-3-Project-Frontend
+
 ## Learning Goals
 
 - Build a web basic API with Sinatra and Active Record to support a React
