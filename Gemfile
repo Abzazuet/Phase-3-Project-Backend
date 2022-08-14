@@ -49,7 +49,6 @@ group :test do
   gem "rack-test", "~> 1.1"
   gem "rspec", "~> 3.10"
   gem "rspec-json_expectations", "~> 2.2"
-  gem "sqlite3", "~> 1.4"
 end
 
 group :production do
