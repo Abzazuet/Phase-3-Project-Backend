@@ -33,3 +33,6 @@ fetch("http://localhost:9292/desserts")
   .then((r) => r.json())
   .then((data) => console.log(data));
 ```
+
+### Tutotial to deploy ruby in heroku 
+- https://medium.com/@isphinxs/deploying-a-sinatra-app-to-heroku-7944b024f77c
