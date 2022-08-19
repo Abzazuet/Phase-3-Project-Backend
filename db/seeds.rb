@@ -2,7 +2,7 @@ puts "🌱 Seeding spices..."
 
 # Seed your database here
 # Regimes
-Regime.create(name: "sugar free")
+Regime.create(name: "low sugar")
 Regime.create(name: "paleo")
 Regime.create(name: "keto")
 Regime.create(name: "vegan")
@@ -16,29 +16,29 @@ Ingredient.create(name: "chocolate")
 Ingredient.create(name: "sugar")
 
 Dessert.create(
-  "name": "Chocolate Bomb",
-  "image": "image",
+  "name": "Cheescake",
+  "image": "../img/cheescake.png",
   "carbohydrates": 200,
   "proteins": 12,
   "fat": 5,
 )
 Dessert.create(
-  "name": "Strwaberry Keto Bomb",
-  "image": "image",
+  "name": "Pastel chocolate",
+  "image": "../img/pastel-chocolate.png",
   "carbohydrates": 200,
   "proteins": 12,
   "fat": 5,
 )
 Dessert.create(
-  "name": "Mango Keto Bomb",
-  "image": "image",
+  "name": "Tarta chocolate",
+  "image": "../img/tarta-chocolate-vegana.png",
   "carbohydrates": 200,
   "proteins": 12,
   "fat": 5,
 )
 Dessert.create(
-  "name": "chocolate red",
-  "image": "hhtttuuy",
+  "name": "Trufa chocolate",
+  "image": "../img/trufa-chocolate.png",
   "carbohydrates": 25,
   "proteins": 21,
   "fat": 20,
